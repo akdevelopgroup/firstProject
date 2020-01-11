@@ -10,7 +10,6 @@ export default function App() {
         source={require('./assets/logo.png')}
       />
       <Text>Open up App.js to start working on your app!</Text>
-      <Text>Педоры идуть</Text>
     </View>
   );
 }
